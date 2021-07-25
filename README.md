@@ -13,7 +13,7 @@ Key features of this modified Moodle LMS are as follows:<br>
 a. Content item opened,<br>
 b. Multiple choice opened,<br>
 c. Multiple choice submitted.<br>
-<br><br>
+<br>
 Data collected includes timestamps, user id, and other content specific variables. All data is stored in a database table created specifically for this.<br>
 2) Data storage and export:<br>
 a. Moodle with TELECI modifications maintains a table in Moodle database for storing user behaviour data.<br>
