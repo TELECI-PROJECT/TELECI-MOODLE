@@ -8,10 +8,12 @@ This file repository contains MOODLE 3.8.1 (Build 20200113) LMS installation fil
 # Description<br>
 TELECI Project Moodle LMS code modifications provides data collection, pre-processing and delivery services for TELECI data visualization web application (https://github.com/zanis-timsans/TELECI-APP).<br>
 Key features of this modified Moodle LMS are as follows:<br>
+<br>
 1) Collection of user behaviour data based on specific events triggered by Moodle user activities:<br>
 a. Content item opened,<br>
 b. Multiple choice opened,<br>
 c. Multiple choice submitted.<br>
+<br><br>
 Data collected includes timestamps, user id, and other content specific variables. All data is stored in a database table created specifically for this.<br>
 2) Data storage and export:<br>
 a. Moodle with TELECI modifications maintains a table in Moodle database for storing user behaviour data.<br>
