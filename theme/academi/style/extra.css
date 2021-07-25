@@ -1,0 +1,46 @@
+#page-content {
+/*	min-height: 400px;*/
+}
+
+.navbar {
+	/* display:inline-block !important;*/
+}
+
+#region-main-box {
+	padding-top: 10px;
+}
+
+.navbar {
+	padding-top: 4px;
+}
+
+.navbar .btn {
+	margin-left: 5px;
+	height: 42px;
+}
+
+.header-main .navbar-light .navbar-brand.has-logo {
+    max-width: 250px;
+    }
+
+header .page-header-headings h1 {
+	font-size: 1.34375rem;
+} 
+
+header .card {
+	border: 0px;
+}   
+
+header .btn.btn-primary {
+	background: #006e69;
+}
+
+header .userpicture {
+	width: 50px;
+	height: 50px;
+}
+
+.progress { 
+	height: 0.5rem;
+	margin-top: 10px;
+	}
