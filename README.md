@@ -1,4 +1,4 @@
-<img width="1078" alt="Screenshot 2021-07-26 at 09 34 46" src="https://user-images.githubusercontent.com/87937181/126943594-65b3a7df-a12e-45c9-a64d-8f8738309581.png">
+
 
 # TELECI-MOODLE repository: Moodle LMS installation with modifications for TELECI Project<br>
 <br>
@@ -22,8 +22,9 @@ b. MS Excel export functionality is available form Moodle Administration panel.<
 3) Data access API: Moodle with TELECI modifications provides a REST API endpoint returning JSON formatted output for TELECI data visualization web application. Data can be queried using multiple parameters (course id and datetime).<br>
 <br><br>
 Moodle with TELECI modifications implements user interface improvements providing better multiple choice layout and instant feedback on answer submission (for Lesson activity plugin). Some theme elements are removed to simplify overall layout.<br>
+<br>
 
-
+<img width="1078" alt="Screenshot 2021-07-26 at 09 34 46" src="https://user-images.githubusercontent.com/87937181/126943594-65b3a7df-a12e-45c9-a64d-8f8738309581.png">
 
 <br>
 <br>
