@@ -5,7 +5,6 @@
 This file repository contains MOODLE 3.8.1 (Build 20200113) LMS installation files with code modifications for TELECI Project.
 /mod/lesson/continue.php<br>
 /mod/lesson/view.php<br>
-<br><br>
 Extra plugin for TELECI DATA<br>
 /local/advancedlogexport
 <br>
