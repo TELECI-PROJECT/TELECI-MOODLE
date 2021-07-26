@@ -1,3 +1,4 @@
+<img width="1078" alt="Screenshot 2021-07-26 at 09 34 46" src="https://user-images.githubusercontent.com/87937181/126943594-65b3a7df-a12e-45c9-a64d-8f8738309581.png">
 
 # TELECI-MOODLE repository: Moodle LMS installation with modifications for TELECI Project<br>
 <br>
