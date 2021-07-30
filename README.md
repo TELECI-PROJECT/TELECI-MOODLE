@@ -30,6 +30,8 @@ Moodle with TELECI modifications implements user interface improvements providin
 <img width="1078" alt="Screenshot 2021-07-26 at 09 34 46" src="https://user-images.githubusercontent.com/87937181/126943594-65b3a7df-a12e-45c9-a64d-8f8738309581.png">
 
 <br>
+# Installation<br>
+https://docs.moodle.org/311/en/Installing_Moodle
 <br>
 Contacts:<br>
 RTU Distance Education Study Center<br>
